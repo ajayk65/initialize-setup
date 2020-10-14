@@ -1,4 +1,4 @@
-# initialize-setup
+# Initialize-setup
 
 This is initial onetime setup. 
 S3 buckets holds tfstate while dynamodb table will hold all history of tfstate.
