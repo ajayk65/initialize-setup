@@ -8,7 +8,7 @@ Use [AWS Provider](https://registry.terraform.io/providers/hashicorp/aws/latest/
 Clone this repository.
 
 Use below commands to initialze terraform with S3 bucket and DynamoDB as backend.</br>
-Execeute the command from the directory where you cloned this project.</br>
+Execeute these commands from the directory where you cloned this project.</br>
 
 **1.** terraform init</br>
 **2.** terraform apply -var env=dev/test/prod</br>
